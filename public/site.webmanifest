@@ -1,0 +1,16 @@
+{
+  "name": "PlayFlix",
+  "short_name": "PlayFlix",
+  "description": "Host drops a GDrive link. Everyone watches together — or alone — your call. India's social cinema platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0E0E",
+  "theme_color": "#0E0E0E",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
